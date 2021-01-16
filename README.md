@@ -1,4 +1,4 @@
-# Kannapi-2.0 - bot
+# White Devil bot
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -31,6 +31,6 @@ Simple WhatsApp Bot
 ```
  SOSMED:
  
- Instagram: __mr_ravanan
+ Instagram: __Mr.White_Devil
  
- Youtube: Mr ravanan
+ Global: White_Devil
